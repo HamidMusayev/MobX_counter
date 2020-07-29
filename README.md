@@ -3,6 +3,7 @@
 ## counter.g.dart
 if you want to write this yourself you must to create page .g.dart
 
+<img src="https://github.com/hemidvsmusayev/Pass-Gen-Z/blob/master/app/src/main/res/drawable/screens/1.jpg?raw=true" width="300">
 
 This project is a starting point for a Flutter application.
 
