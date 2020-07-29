@@ -1,8 +1,7 @@
-# mobx_app
+# MobX Counter App
 
-A new Flutter application.
+## for creating counter.g.dart
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
