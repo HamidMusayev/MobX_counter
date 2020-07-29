@@ -3,10 +3,10 @@
 ## counter.g.dart
 If you want to write this yourself you must to create page .g.dart
 
-<img src="https://github.com/hemidvsmusayev/MobX_counter/blob/master/screens/terminal.PNG?raw=true" width="200">
+<img src="https://github.com/hemidvsmusayev/MobX_counter/blob/master/screens/terminal.PNG?raw=true" width="300">
 
 # Screen
-<img src="https://github.com/hemidvsmusayev/MobX_counter/blob/master/screens/screen.jpg?raw=true" width="100">
+<img src="https://github.com/hemidvsmusayev/MobX_counter/blob/master/screens/screen.jpg?raw=true" width="200">
 
 This project is a starting point for a Flutter application.
 
